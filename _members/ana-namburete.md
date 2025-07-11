@@ -6,9 +6,11 @@ description: Principal Investigator Assistant Professor
 joined: 2018
 aliases:
   - A. Namburete
-  - Ana
+  - Ana I.L Namburete
   - Ana Namburete
   - Ana I. L. Namburete
+  - Ana IL Namburete
+  - Ana I.L. Namburete
 links:
   home-page: https://www.pmb.ox.ac.uk/person/professor-ana-namburete
   email: ana.namburete@cs.ox.ac.uk

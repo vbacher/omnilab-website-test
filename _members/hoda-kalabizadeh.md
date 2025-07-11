@@ -1,6 +1,6 @@
 ---
 name: Hoda Kalabizadeh
-image: images/members/Hoda.png
+image: images/members/Hoda-small.jpeg
 role: dphil
 joined: 2021
 aliases:

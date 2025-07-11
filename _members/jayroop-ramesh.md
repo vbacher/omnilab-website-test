@@ -1,6 +1,6 @@
 ---
-name: Jayroop ramesh
-image: images/members/Jayroop.JPG
+name: Jayroop Ramesh
+image: images/members/Jayroop-small.jpeg
 role: dphil
 joined: 2021
 aliases:

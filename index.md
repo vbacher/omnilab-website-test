@@ -92,6 +92,10 @@ We are a collaborative and open-minded group of people, eager to push the fronti
 
 {% include section.html %}
 
+## News
+
+{% include section.html %}
+
 ### Tools and Resources
 
 We are committed to open science. Many of our tools, pretrained models, and datasets are publicly available through our [GitHub](https://github.com/oxford-omni-lab) page, and we actively contribute to community efforts in medical imaging and AI.
