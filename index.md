@@ -94,6 +94,20 @@ We are a collaborative and open-minded group of people, eager to push the fronti
 
 ## News
 
+{% for post in site.posts limit:8 %}
+{% include post-excerpt.html
+    title=post.title
+    date=post.date
+    url=post.url
+    author=post.author
+    tags=post.tags
+    content=post.content
+    excerpt=post.excerpt
+    image=post.image
+    style="tiny"
+  %}
+{% endfor %}
+
 {% include section.html %}
 
 ### Tools and Resources
