@@ -7,28 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Do we want some other text here? So far:
+We are **always** looking for new DPhil/MSc students and Postdocs to join the team [(see recruitment)]({{ site.url }}{{ site.baseurl }}/recruitment) **!**
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.png" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Do we need this section? what would we put there? the marine ecology lab does not have it here.
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/group/group2024.JPG" %}
 
 {% endcapture %}
 

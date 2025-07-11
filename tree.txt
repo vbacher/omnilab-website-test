@@ -1,0 +1,182 @@
+.
+├── _cite
+│   ├── cite.py
+│   ├── plugins
+│   │   ├── google-scholar.py
+│   │   ├── orcid.py
+│   │   ├── pubmed.py
+│   │   └── sources.py
+│   ├── requirements.txt
+│   └── util.py
+├── _config.yaml
+├── _data
+│   ├── citations.yaml
+│   ├── orcid.yaml
+│   ├── projects.yaml
+│   ├── sources.yaml
+│   └── types.yaml
+├── _includes
+│   ├── alert.html
+│   ├── analytics.html
+│   ├── button.html
+│   ├── card.html
+│   ├── citation.html
+│   ├── cols.html
+│   ├── content.html
+│   ├── fallback.html
+│   ├── feature.html
+│   ├── figure.html
+│   ├── float.html
+│   ├── fonts.html
+│   ├── footer.html
+│   ├── grid.html
+│   ├── head.html
+│   ├── header.html
+│   ├── icon.html
+│   ├── list.html
+│   ├── manubot.svg
+│   ├── meta.html
+│   ├── portrait.html
+│   ├── post-excerpt.html
+│   ├── post-info.html
+│   ├── post-nav.html
+│   ├── scripts.html
+│   ├── search-box.html
+│   ├── search-info.html
+│   ├── section.html
+│   ├── site-search.html
+│   ├── styles.html
+│   ├── tags.html
+│   └── verification.html
+├── _layouts
+│   ├── default.html
+│   ├── member.html
+│   └── post.html
+├── _members
+│   ├── jane-smith.md
+│   ├── john-doe.md
+│   └── sarah-johnson.md
+├── _plugins
+│   ├── array.rb
+│   ├── file.rb
+│   ├── hash.rb
+│   ├── misc.rb
+│   └── regex.rb
+├── _posts
+│   ├── 2019-01-07-example-post-1.md
+│   ├── 2021-09-30-example-post-2.md
+│   └── 2023-02-23-example-post-3.md
+├── _scripts
+│   ├── anchors.js
+│   ├── dark-mode.js
+│   ├── fetch-tags.js
+│   ├── search.js
+│   ├── site-search.js
+│   ├── table-wrap.js
+│   └── tooltip.js
+├── _styles
+│   ├── -theme.scss
+│   ├── alert.scss
+│   ├── all.scss
+│   ├── anchor.scss
+│   ├── background.scss
+│   ├── body.scss
+│   ├── bold.scss
+│   ├── button.scss
+│   ├── card.scss
+│   ├── checkbox.scss
+│   ├── citation.scss
+│   ├── code.scss
+│   ├── cols.scss
+│   ├── dark-toggle.scss
+│   ├── details.scss
+│   ├── feature.scss
+│   ├── figure.scss
+│   ├── float.scss
+│   ├── font.scss
+│   ├── footer.scss
+│   ├── form.scss
+│   ├── grid.scss
+│   ├── header.scss
+│   ├── heading.scss
+│   ├── highlight.scss
+│   ├── icon.scss
+│   ├── image.scss
+│   ├── link.scss
+│   ├── list.scss
+│   ├── main.scss
+│   ├── paragraph.scss
+│   ├── portrait.scss
+│   ├── post-excerpt.scss
+│   ├── post-info.scss
+│   ├── post-nav.scss
+│   ├── quote.scss
+│   ├── rule.scss
+│   ├── search-box.scss
+│   ├── search-info.scss
+│   ├── section.scss
+│   ├── table.scss
+│   ├── tags.scss
+│   ├── textbox.scss
+│   ├── tooltip.scss
+│   └── util.scss
+├── 404.md
+├── blog
+│   └── index.md
+├── CHANGELOG.md
+├── CITATION.cff
+├── contact
+│   └── index.md
+├── Gemfile
+├── Gemfile.lock
+├── images
+│   ├── background.jpg
+│   ├── fallback.svg
+│   ├── icon.png
+│   ├── logo.svg
+│   ├── photo.jpg
+│   ├── pubpic
+│   │   ├── age_pred.png
+│   │   ├── bhatt.png
+│   │   ├── brain_age_ana.png
+│   │   ├── cortical_plate.png
+│   │   ├── features.png
+│   │   ├── federated.png
+│   │   ├── fedHarmony.gif
+│   │   ├── fetal_brain.png
+│   │   ├── fissure.png
+│   │   ├── harm.png
+│   │   ├── hippocampus.png
+│   │   ├── implicitVol.gif
+│   │   ├── neuron2022.jpg
+│   │   ├── planeinvol_rs.gif
+│   │   ├── seg.png
+│   │   ├── sensorless.png
+│   │   ├── sli2vol.gif
+│   │   ├── slice2vol.png
+│   │   ├── stamp2022_v2.jpg
+│   │   ├── stamp2022.jpg
+│   │   ├── subcortical_segmentation.png
+│   │   ├── teds_new.png
+│   │   ├── teds.png
+│   │   ├── triplanar.png
+│   │   ├── UKBiobank_age_estimation.png
+│   │   ├── unifed.png
+│   │   ├── us_seg.png
+│   │   ├── US.png
+│   │   ├── USAtlas-ezgif.com-video-to-gif-converter.gif
+│   │   └── USAtlas.mp4
+│   └── share.jpg
+├── index.md
+├── LICENSE.md
+├── projects
+│   └── index.md
+├── README.md
+├── research
+│   └── index.md
+├── team
+│   └── index.md
+├── testbed.md
+└── tree.txt
+
+18 directories, 162 files

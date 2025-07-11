@@ -1,27 +1,31 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Key areas of Research
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+By developing computational tools, the OMNI Lab aims to address key needs in modern medicine: (i) automated analysis relieves the requirement for highly-skilled radiologists; (ii) discovery of novel markers for diagnostic screening; (iii) software for portable devices, thus broadening access to high-quality care in the developing world; and (iv) investing in sophisticated software while leveraging existing imaging hardware provides a large cost benefit to an already constrained healthcare system. To achieve these goals, our research focuses on the following topics:
 
-{% include section.html %}
+- Characterising the Fetal Brain
+- ⁠⁠2D-3D US Reconstruction
+- Clinical Translation
+- ⁠⁠Deep Learning Methodology
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}

@@ -47,5 +47,15 @@
         {{ member.affiliation }}
       </span>
     {% endif %}
+    
+    {% if member.left %}
+      <span class="portrait-year">
+        {% if page.slug == member.slug %}
+          Group member until: {{ member.left }}
+        {% else %}
+          until: {{ member.left }}
+        {% endif %}
+      </span>
+    {% endif %}
   </a>
 </div>
