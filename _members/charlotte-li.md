@@ -2,7 +2,6 @@
 name: Charlotte Li
 image: images/members/placeholder.png
 role: undergrad
-description: Undergraduate Student
 group: alumni
 left: 2022
 aliases:

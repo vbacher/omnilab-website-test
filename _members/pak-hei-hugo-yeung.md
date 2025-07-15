@@ -2,7 +2,6 @@
 name: Pak Hei (Hugo) Yeung
 image: images/members/Hugo-small.jpeg
 role: associate-member
-description: Associate Member
 aliases:
   - Hugo Yeung
   - P. H. Yeung

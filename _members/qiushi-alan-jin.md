@@ -2,7 +2,6 @@
 name: Qiushi (Alan) Jin
 image: images/members/alan-small.jpeg
 role: undergrad
-description: BSc Student
 group: alumni
 aliases:
   - Alan Jin

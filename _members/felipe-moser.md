@@ -2,7 +2,6 @@
 name: Felipe Moser
 image: images/members/placeholder.png
 role: graduate
-description: Masters Student
 group: alumni
 left: 2023
 aliases:

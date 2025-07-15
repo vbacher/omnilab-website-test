@@ -1,8 +1,7 @@
 ---
 name: Linde Hesse
 image: images/members/Linde-small.jpeg
-role: dphil
-description: PhD Student
+role: postdoc
 group: alumni
 left: 2024
 aliases:

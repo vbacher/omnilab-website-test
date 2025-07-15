@@ -2,7 +2,6 @@
 name: Lorenzo Venturini
 image: images/members/placeholder.png
 role: graduate
-description: Masters Student
 group: alumni
 left: 2021
 aliases:

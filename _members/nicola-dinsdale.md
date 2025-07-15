@@ -2,7 +2,6 @@
 name: Nicola Dinsdale
 image: images/members/Nicola-small.jpeg
 role: postdoc
-description: Postdoctoral Researcher
 group: alumni
 joined: 2018
 left: 2025

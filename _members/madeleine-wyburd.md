@@ -2,7 +2,6 @@
 name: Madeleine Wyburd
 image: images/members/Maddy-small.jpeg
 role: postdoc
-description: Postdoctoral Researcher
 group: alumni
 aliases:
   - Maddy Wyburd

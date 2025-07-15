@@ -1,8 +1,7 @@
 ---
 name: Tom Waddell
 image: images/members/Tom-small.jpeg
-role: graduate
-description: Masters Student
+role: dphil
 group: alumni
 left: 2024
 aliases:

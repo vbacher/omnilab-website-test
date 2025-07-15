@@ -2,7 +2,6 @@
 name: Andrei Claudiu-Roibu
 image: images/members/Andrei.JPG
 role: dphil
-description: PhD Student
 group: alumni
 left: 2024
 aliases:
